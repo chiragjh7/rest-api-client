@@ -7,6 +7,8 @@ A RESTful API built with Express.js and Mongoose.
 -   Overview
 -   Features
 -   Installation and Usage
+-   Configuration
+-   Folder Structure
 -   API Endpoints
 -   Dependencies
 
