@@ -2,7 +2,7 @@
 
 A RESTful API built with Express.js and Mongoose.
 
-- Chirag says that this project is awesome and superb
+- Chirag says that this project is awesome and superb!
 
 ## Table of Contents
 
