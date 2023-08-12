@@ -4,6 +4,8 @@ A RESTful API built with Express.js and Mongoose.
 
 - Chirag says that this project is awesome and superb!
 
+This is an example to make a merge conflict!
+
 ## Table of Contents
 
 -   Overview
